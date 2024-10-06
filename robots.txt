@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://runthero.github.io/sitemap.html.gz
+Sitemap: https://runthero.github.io/app/sitemap.html.gz
+Sitemap: https://runthero.github.io/assets/sitemap.html.gz
+Sitemap: https://runthero.github.io/css/sitemap.html.gz
+Sitemap: https://runthero.github.io/data/sitemap.html.gz
+Sitemap: https://runthero.github.io/includes/sitemap.html.gz
+Sitemap: https://runthero.github.io/item/sitemap.html.gz
+Sitemap: https://runthero.github.io/src/sitemap.html.gz
